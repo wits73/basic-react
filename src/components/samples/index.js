@@ -1,6 +1,7 @@
 import Iteration from './Iteration';
-import LifeCycle from './LifeCycle'
+import LifeCycle from './LifeCycle';
+import Func from './funcComponent';
 
 export{
-    Iteration, LifeCycle
+    Iteration, LifeCycle, Func
 }
